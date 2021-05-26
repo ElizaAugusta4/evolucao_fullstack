@@ -1,0 +1,14 @@
+div {
+    border-radius: 100px;
+    background-color: #FA2963;
+    height: 200px;
+    width: 200px;
+    border:3px solid white
+
+}
+p {
+  text-align: center;   
+  padding: 4px;
+  color: rgb(252, 247, 247);
+  font-size: 50px;
+}
